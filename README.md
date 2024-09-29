@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VanshWebDev
+- 👋 Hi, I’m Vansh kumar
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning full stack development.
 - 🌍 Live on [vanshkumar.netlify.app](https://vanshkumar.netlify.app/)
